@@ -65,60 +65,9 @@ jupyter notebook
 
 ## 📔 Registro de avances
 
-> Guarda tus reflexiones o aprendizajes diarios en la carpeta `/avances/`.
-
-Ejemplo para el Día 1:
-```markdown
-# 📅 Día 01 - Introducción a la IA y entorno
-
-✅ Lo aprendido:
-- Qué es la IA
-- Áreas clave
-- Entorno Python y Jupyter
-
-💻 Práctica:
-- Primer notebook con "Hola IA"
-- Instalación de paquetes
-
-🧠 Reflexión:
-¡Estoy emocionado! Todo se siente posible ahora que tengo un plan claro.
-
-🔗 Recursos:
-- [Curso DotCSV](https://www.youtube.com/playlist?list=PLrNF-MtnddY2rYd9JbU2NV_W0rxVtBG3B)
-
----
-
-## 📹 TikTok y LinkedIn
-
-### 🎥 TikTok (desde el Día 3)
-
-A partir del tercer día, comienza a documentar tu progreso de forma creativa:
-
-- Publica videos cortos de 30 a 60 segundos explicando lo que aprendiste.
-- Usa un lenguaje claro y visual.
-- Puedes grabarte hablando, mostrar la pantalla o usar animaciones simples.
-
-🧠 Ideas de contenido:
-- "¿Sabías que la IA no siempre es como en las películas?"
-- "Así hice mi primer modelo de predicción con Python."
-- "¿Qué es un perceptrón? Te lo explico en menos de 1 minuto."
-
-📌 Hashtags sugeridos:
-`#IAenEspañol #100DiasIA #Python #AprendiendoIA #CienciaDeDatos`
-
----
-
-### 💼 LinkedIn (cada 3 días)
-
-- Publica un resumen técnico de tu aprendizaje.
-- Comparte una reflexión profesional.
-- Incluye una imagen o gráfico si es posible.
-- Etiqueta el reto: **#100DiasIA**
-
-📝 Ejemplo:
-> Hoy es el Día 10 del reto #100DiasIA. Aprendí sobre regresión lineal y construí mi primer modelo de predicción en Python usando scikit-learn. ¡Vamos avanzando! 🚀
-
----
+> Todos los avances desde el dia 1 al 100 estaran en los directorios:
+> `/avances/`, para documentaciones e informacion teorica.
+> `/dias/` ,  para las prácticas y codigos.
 
 ## 📅 Cronograma diario
 
