@@ -1,9 +1,6 @@
 # 📅 Cronograma diario
 
-Aquí tienes una vista general de los bloques temáticos.  
-Para el cronograma detallado, revisa el archivo [`cronograma.md`](cronograma.md).
-
-| Días     | Tema principal                                  |
+| Días     | Tema principal                                   |
 |----------|--------------------------------------------------|
 | 01–05    | Introducción, Python, Jupyter, entorno           |
 | 06–15    | Álgebra lineal, estadística, visualización       |
@@ -24,13 +21,11 @@ Para el cronograma detallado, revisa el archivo [`cronograma.md`](cronograma.md)
 - Introducción teórica a la IA.
 - Tipos de IA: débil, fuerte, general.
 - Aplicaciones reales.
-- 🎥 Recurso: [¿Qué es la inteligencia artificial? - YouTube (DotCSV)](https://www.youtube.com/watch?v=ld2zFeS2VQY)
 
 ## Día 2: Principios básicos de Python para IA
 - Sintaxis básica: variables, tipos de datos.
 - Entrada/salida.
 - Operaciones básicas.
-- 📘 Recurso: [Curso Python desde cero (Píldoras Informáticas)](https://www.youtube.com/playlist?list=PLU8oAlHdN5BmpIQGDSHo5e1r4ZYWQ8m4B)
 
 ## Día 3: Estructuras de control en Python
 - Condicionales y bucles.

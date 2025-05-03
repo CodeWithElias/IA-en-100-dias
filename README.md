@@ -1,6 +1,6 @@
 # 🤖 Reto: 100 Días Aprendiendo Inteligencia Artificial (en Español)
 
-Este proyecto es un plan completo de 100 días para aprender Inteligencia Artificial desde cero usando tecnologías modernas, con recursos **100% gratuitos y en español**. Además, incluye un componente de desarrollo de marca personal mediante publicaciones en **TikTok** y **LinkedIn**.
+Este proyecto es un plan completo de 100 días para aprender Inteligencia Artificial desde cero usando tecnologías modernas, con recursos **100% gratuitos y en español**.
 
 ---
 
@@ -10,8 +10,6 @@ Este proyecto es un plan completo de 100 días para aprender Inteligencia Artifi
 - [📦 Instalación](#-instalación)
 - [🚀 Cómo usar este repositorio](#-cómo-usar-este-repositorio)
 - [📔 Registro de avances](#-registro-de-avances)
-- [📚 Recursos recomendados (gratuitos y en español)](#-recursos-recomendados-gratuitos-y-en-español)
-- [📹 TikTok y LinkedIn](#-tiktok-y-linkedin)
 - [📅 Cronograma diario](#-cronograma-diario)
 - [🤝 Contribuciones](#-contribuciones)
 - [📜 Licencia](#-licencia)
@@ -24,7 +22,6 @@ Este proyecto es un plan completo de 100 días para aprender Inteligencia Artifi
 - Aprender IA paso a paso con práctica diaria.
 - Construir una base sólida en Python, Machine Learning, Deep Learning, NLP y más.
 - Aplicar lo aprendido en proyectos.
-- Documentar y compartir el avance en redes para crear una marca personal técnica.
 
 ---
 
@@ -65,9 +62,9 @@ jupyter notebook
 
 ## 📔 Registro de avances
 
-> Todos los avances desde el dia 1 al 100 estaran en los directorios:
-> `/avances/`, para documentaciones e informacion teorica.
-> `/dias/` ,  para las prácticas y codigos.
+- Todos los avances desde el dia 1 al 100 estaran en los directorios:
+- [`/avances`](/avances/), documentacion e informacion teorica.
+- [`/dias`](/dias/), prácticas y codigos
 
 ## 📅 Cronograma diario
 
