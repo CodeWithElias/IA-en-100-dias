@@ -3,7 +3,7 @@
 ## 📌 Índice
 
 - [📦 Instalación](#-instalación)
-- [🐍 Principios básicos de Python para IA](#-principios-básicos-de-python-para-ia)
+- [🐍 Principios básicos de Python para IA](#-principios-basicos-de-python-para-ia)
 
 
 ## Instalacion
