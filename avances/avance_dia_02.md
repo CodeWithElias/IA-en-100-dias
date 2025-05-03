@@ -1,10 +1,11 @@
 # Día 2: Principios básicos de Python para IA
-
+---
 ## 📌 Índice
 
 - [📦 Instalación](#-instalación)
-- [🐍 Principios básicos de Python para IA](#principios-basicos-de-python-para-ia)
+- [🐍 Principios básicos de Python para IA](#-principios-basicos-de-python-para-ia)
 
+---
 
 ## 📦 Instalacion
 
@@ -48,6 +49,8 @@ python3 --version
 
 ⚠️ Si usas Visual Studio Code
 Te recomiendo instalar la extensión oficial de Python y asegurarte de que VS Code detecta tu instalación correctamente.
+
+---
 
 ## 🐍 Principios básicos de Python para IA
 
@@ -111,3 +114,4 @@ b = 7
 print(a == b)   # False
 print(a < b)    # True
 ```
+---
