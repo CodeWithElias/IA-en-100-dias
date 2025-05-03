@@ -3,7 +3,7 @@
 ## 📌 Índice
 
 - [📦 Instalación](#-instalación)
-- [🎯 Principios básicos de Python para IA](#-Principios_básicos_de_Python_para_IA)
+- [🐍 Principios básicos de Python para IA](#-principios_básicos_de_Python_para_IA)
 
 ## Instalacion
 
@@ -48,7 +48,8 @@ python3 --version
 ⚠️ Si usas Visual Studio Code
 Te recomiendo instalar la extensión oficial de Python y asegurarte de que VS Code detecta tu instalación correctamente.
 
-## Principios básicos de Python para IA
+## 🐍 Principios básicos de Python para IA
+
 🐍 ¿Por qué Python?
 Python es el lenguaje más usado en Inteligencia Artificial gracias a su:
 - Sintaxis simple.
