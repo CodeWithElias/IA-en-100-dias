@@ -41,8 +41,10 @@ diccionario = agrupar_por_inicial(nombre)
 
 print(diccionario)
 
-{
-    'A': ['Ana', 'Andres'],
-    'C': ['Carlos', 'Camila'], 
-    'L': ['Luis', 'Laura'], 
-    'D': ['Diego']}
+# resultado
+#{
+#    'A': ['Ana', 'Andres'],
+#    'C': ['Carlos', 'Camila'], 
+#    'L': ['Luis', 'Laura'], 
+#    'D': ['Diego']
+# }
