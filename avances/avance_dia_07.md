@@ -22,9 +22,8 @@ En la IA:
 La media aritmética es el valor promedio de un conjunto de datos. Se obtiene sumando todos los valores y dividiéndolos entre la cantidad total de elementos.
 
 **Fórmula:**
-    sumatoria(x_i)
-x = ---------------
-          n
+
+x = (sumatoria(x_i))/n
 
 Donde:
 
@@ -52,14 +51,12 @@ La mediana es el valor que se encuentra en el centro de un conjunto de datos ord
 Para una lista ordenada $x_1, x_2, ..., x_n$:
 
 * Si n es impar:
-           n + 1
-mediana = -------
-             2
+
+mediana = (n + 1) / 2
 
 * Si n es par:
-           n/2 + (n/2)+1
-mediana = ---------------
-                2
+
+mediana = (n/2 + (n/2)+1) / 2
 
 **Ejemplo en Python:**
 ```python
@@ -91,9 +88,8 @@ print(f"Moda: {moda}")
 La varianza mide la dispersión de los datos con respecto a la media. Cuanto mayor sea la varianza, más alejados están los valores de la media.
 
 **Fórmula (muestral):**
-      sumatoria(x_i - x)^2
-s^2 = ---------------------
-                n - 1
+
+s^2 = (sumatoria(x_i - x)^2) / n - 1
 
 Donde:
 
