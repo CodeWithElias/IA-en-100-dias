@@ -57,12 +57,12 @@
 ## Día 8: Probabilidad para IA
 - Conceptos de probabilidad y distribuciones.
 - Teorema de Bayes.
-- 🎥 Recurso: [Probabilidad para IA - YouTube](https://www.youtube.com/watch?v=2NqB52_D44g)
+- 🎥 Recurso: [Probabilidad para IA - YouTube]()
 
 ## Día 9: Visualización de datos con Python
 - Uso de bibliotecas como Matplotlib y Seaborn.
 - Gráficos básicos y avanzados.
-- 📘 Recurso: [Visualización de Datos en Python (Píldoras Informáticas)](https://www.youtube.com/watch?v=F6fcbGFzE68)
+- 📘 Recurso: [Visualización de Datos en Python (Píldoras Informáticas)]()
 
 ## Día 10: Introducción al Machine Learning
 - Conceptos de aprendizaje supervisado y no supervisado.
