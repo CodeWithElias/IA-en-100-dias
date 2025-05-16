@@ -72,7 +72,7 @@
 ## Día 11: Regresión lineal
 - Teoría de la regresión.
 - Implementación en Python.
-- 🎥 Recurso: [Regresión lineal - YouTube](https://www.youtube.com/watch?v=3v9m0s7bJpY)
+- 🎥 Recurso: [Regresión lineal](https://developers.google.com/machine-learning/crash-course/linear-regression?hl=es-419)
 
 ## Día 12: Regresión logística
 - Diferencias con la regresión lineal.
