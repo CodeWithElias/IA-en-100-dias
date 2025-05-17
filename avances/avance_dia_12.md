@@ -86,4 +86,4 @@ El modelo ajusta una función logística a los datos, aprendiendo los parámetro
 
 ## 🎥 Recurso recomendado
 
-[Regresión Lineal con Python](https://developers.google.com/machine-learning/crash-course/logistic-regression?hl=es-419)
+[Regresión Logistica con Python](https://developers.google.com/machine-learning/crash-course/logistic-regression?hl=es-419)
