@@ -30,6 +30,6 @@ print("Score R2:", modelo.score(x, y))  # Evaluación del modelo
 
 # ----------------------------------------
 # 🔮 Predicción con nueva hora de estudio
-nueva_hora = 7  # Cambia este valor para predecir otra hora
+nueva_hora = 0.1  # Cambia este valor para predecir otra hora
 nueva_prediccion = modelo.predict(np.array([[nueva_hora]]))
 print(f"\nSi estudias {nueva_hora} horas, se predice que obtendrás una nota de: {nueva_prediccion[0]:.2f}")
