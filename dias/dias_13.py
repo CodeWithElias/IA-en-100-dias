@@ -6,13 +6,19 @@ import matplotlib.pyplot as plt  # Para crear gráficos
 # Creamos los datos de entrenamiento:
 # x representa las horas de estudio de distintos estudiantes
 # y representa si aprobaron (1) o no (0)
-x = np.array([[1], [2], [3], [4], [5], [6]])  # Características (input)
-y = np.array([0, 0, 0, 1, 1, 1])              # Etiquetas (output)
+# 20 datos de entrada: Horas de estudio (entre 0 y 10)
+x = np.array([[0.5], [1], [1.5], [2], [2.5], [3], [3.5], [4], [4.5], [5],
+              [5.5], [6], [6.5], [7], [7.5], [8], [8.5], [9], [9.5], [10]])
+
+# Etiquetas correspondientes: 0 = No aprueba, 1 = Aprueba
+# Supongamos que a partir de 4 horas, las probabilidades de aprobar aumentan
+y = np.array([0, 0, 0, 0, 1, 0, 0, 1, 1, 1,
+              1, 1, 1, 1, 1, 1, 1, 0, 1, 1])
 
 # Creamos el modelo de árbol de decisión
 # max_depth=6 limita la profundidad del árbol para evitar sobreajuste
 # random_state=0 asegura que los resultados sean reproducibles
-modelo = DecisionTreeClassifier(max_depth=3, random_state=0)
+modelo = DecisionTreeClassifier(max_depth=6, random_state=0)
 
 # Entrenamos el modelo con nuestros datos
 modelo.fit(x, y)
