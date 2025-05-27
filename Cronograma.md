@@ -102,7 +102,7 @@
 ## Día 17: K-means y clustering
 - Explicación de K-means y algoritmos de clustering.
 - Implementación en Python.
-- 🎥 Recurso: [K-means y Clustering - YouTube](https://www.youtube.com/watch?v=22M5e1s6_Gk)
+- 🎥 Recurso: [K-means y Clustering - YouTube](https://youtu.be/mICySHB0fh4)
 
 ## Día 18: Validación de modelos
 - Técnicas de validación cruzada.
