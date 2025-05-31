@@ -107,12 +107,10 @@
 ## Día 18: Validación de modelos
 - Técnicas de validación cruzada.
 - Uso de K-folds.
-- 📘 Recurso: [Validación de Modelos - YouTube](https://www.youtube.com/watch?v=lv7u07r7G1w)
 
 ## Día 19: Evaluación de modelos
 - Métricas de evaluación: precisión, recall, F1.
 - Curvas ROC.
-- 🎥 Recurso: [Evaluación de Modelos de ML - YouTube](https://www.youtube.com/watch?v=9jQy-XTzFuk)
 
 ## Día 20: Overfitting y Underfitting
 - Explicación de los conceptos.
