@@ -115,7 +115,7 @@
 ## Día 20: Overfitting y Underfitting
 - Explicación de los conceptos.
 - Cómo evitarlos en los modelos.
-- 📘 Recurso: [Evitar Overfitting y Underfitting - YouTube](https://www.youtube.com/watch?v=3zG30iPPFCE)
+- 📘 Recurso: [Evitar Overfitting y Underfitting - YouTube](https://youtu.be/EuBBz3bI-aA?si=-8G3Nj3g-xS7meKo)
 
 ## Día 21: Introducción a las Redes Neuronales
 - Conceptos básicos de redes neuronales.
