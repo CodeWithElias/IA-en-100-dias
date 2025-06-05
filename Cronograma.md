@@ -120,7 +120,7 @@
 ## Día 21: Introducción a las Redes Neuronales
 - Conceptos básicos de redes neuronales.
 - Cómo funcionan las redes neuronales artificiales.
-- 🎥 Recurso: [Introducción a las Redes Neuronales - YouTube](https://www.youtube.com/watch?v=aircAruA8JY)
+- 🎥 Recurso: [Introducción a las Redes Neuronales - YouTube](https://www.youtube.com/watch?v=aircAruvnKk)
 
 ## Día 22: Perceptrón y función de activación
 - Explicación de la arquitectura básica.
